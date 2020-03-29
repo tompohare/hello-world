@@ -1,5 +1,4 @@
 # hello-world
-just another repository
 
 Hi! This is an example README file, which format is markdown. 
 
